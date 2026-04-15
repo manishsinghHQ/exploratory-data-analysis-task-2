@@ -1,1 +1,2 @@
-<p>In this task i have successfully generated  statistic summary and visuals listogram and boxplot and also generated correlation matrix and identifying patterns,trends and anomolis and also completed basic feature scaling</p>
+<p>In this task i have successfully generated  statistic summary and visuals 
+  histogram and boxplot and also generated correlation matrix and identifying patterns,trends and anomolis and also completed basic feature scaling</p>
